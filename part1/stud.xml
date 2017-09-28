@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE таблица PUBLIC "GossJS" "http://kodaktor.ru/j/dtd_b620c" >
+<!DOCTYPE таблица PUBLIC "Fomin" "stud.dtd" >
 <таблица>
     <студент имя = "Иванов">
       <отметка дисциплина="Мультимедиа">3</отметка>
