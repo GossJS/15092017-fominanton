@@ -7,12 +7,12 @@
 
 Лабораторная 1
 
-   <a href="#"> DTD для таблички студентов<a>
-    DTD для таблички моих скиллов
-    DTD для статистики просмотров
+   <a href="https://github.com/GossJS/15092017-fominanton/tree/master/part1"> DTD для таблички студентов</a>
+   <a href="https://github.com/GossJS/15092017-fominanton/tree/master/part2">DTD для таблички моих скиллов</a>
+   <a href="https://github.com/GossJS/15092017-fominanton/tree/master/part3"> DTD для статистики просмотров</a>
 
 Лабораторная 2
 
-    Json-схема
-    XML-схема
+   <a href="https://github.com/GossJS/15092017-fominanton/tree/master/part4"> Json-схема</a>
+   <a href="https://github.com/GossJS/15092017-fominanton/tree/master/part5" > XML-схема </a>
 
