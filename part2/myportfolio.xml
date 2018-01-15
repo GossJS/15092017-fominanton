@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<!DOCTYPE myportfolio PUBLIC "GrossJS" "myportfolio.dtd">
+<!DOCTYPE myportfolio PUBLIC "Fomin" "myportfolio.dtd">
 <myportfolio>
 	<mycompetencies>
 		<competency in="HTML" value="good" />
